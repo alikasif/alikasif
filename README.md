@@ -4,7 +4,7 @@
 > 
 > Prompt Engineering -> Context Engineering -> Harness Engineering -> Agentic Software Development
 
-I specialize in **Agentic Workflows**, transforming static LLMs into dynamic, multi-agent ecosystems. My work focuses on the intersection of **orchestration**, **memory**, and **tool-use**.
+I am learning and building **Agentic Workflows**, transforming static LLMs into dynamic, multi-agent ecosystems. My interest focuses on the intersection of **orchestration**, **memory**, and **tool-use**.
 
 ---
 
