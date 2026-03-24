@@ -41,7 +41,7 @@ While others are building chatbots, I'm focusing on:
 ---
 
 ### 📫 Connect & Collaborate
-[LinkedIn](www.linkedin.com/in/alikasif)
+www.linkedin.com/in/alikasif
 
 
 *"The best way to predict the future is to build the agents that create it."*
