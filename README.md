@@ -17,6 +17,7 @@ I am currently building and documenting the "Big Three" of modern AI orchestrati
 | [**Multiple projects built using Agents**](https://github.com/alikasif/agents) | Multi-Agent Orchestration & Tooling | **CrewAI / AutoGen** |
 | [**Conversational Survey Engine**](https://github.com/alikasif/conversational-survey-engine) | Static questions survey to conversational survey using agents | **LiteLLM & OpenAI SDK** |
 | [**Exploratory Data Analysis(EDA) Agent**](https://github.com/alikasif/eda-agent) | An AI-powered exploratory data analysis tool that automatically profiles your dataset and lets you investigate it through natural language | **OpenRouter, LiteLLM & OpenAI SDK** |
+| [**AI-Powered Edge Bookmark Organizer**](https://github.com/alikasif/agentic-bookmark-organizer) | An intelligent browser extension + Python backend that uses AI to analyze and reorganize your Microsoft Edge bookmarks into a logical folder structure | **OpenRouter, LiteLLM** |
 | [**Agent SDK**](https://github.com/alikasif/agent_sdk) | An agent sdk with tools, persistence, isolation, recovery, memory | **LiteLLM** |
 
 ---
