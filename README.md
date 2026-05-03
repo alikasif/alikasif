@@ -10,8 +10,6 @@ I am learning and building **Agentic Workflows**, transforming static LLMs into 
 
 ### 🧠 The Agentic Portfolio
 
-I am currently building and documenting the "Big Three" of modern AI orchestration. Check out my core research labs below:
-
 | Repository | Focus Area | Framework |
 | :--- | :--- | :--- |
 | [**Multiple projects built using Agents**](https://github.com/alikasif/agents) | Multi-Agent Orchestration & Tooling | **CrewAI / AutoGen** |
