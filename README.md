@@ -36,7 +36,7 @@ Building agents requires more than just Python; it requires an understanding of 
 * **Skills & Plugins:** Claude Skills, Claude Code plugins (superpowers, mattpocock-skills), custom subagents
 * **RAG & Vector Infrastructure:** RAG pipelines, Pinecone, ChromaDB, FAISS
 * **Evals:** LLM and agent evaluation, regression evals for prompts, skills and agent workflows
-* **Patterns:** ReAct, ReWoO, Plan-and-Execute, Self-Reflection, Hierarchical Teams
+* **Patterns:** ReAct, CodeAct, ReWoO, Plan-and-Execute, Self-Reflection, Hierarchical Teams
 
 ---
 
