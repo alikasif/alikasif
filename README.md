@@ -33,7 +33,9 @@ Building agents requires more than just Python; it requires an understanding of 
 
 * **Orchestration:** Claude Code (subagents, skills, plugins), LangGraph, CrewAI, AutoGen, LangChain
 * **Models:** GPT-5, Claude Opus 5.5 / Sonnet 5.5, Gemini 3 Pro
-* **Vector Infrastructure:** Pinecone, ChromaDB, FAISS
+* **Skills & Plugins:** Claude Skills, Claude Code plugins (superpowers, mattpocock-skills), custom subagents
+* **RAG & Vector Infrastructure:** RAG pipelines, Pinecone, ChromaDB, FAISS
+* **Evals:** LLM and agent evaluation, regression evals for prompts, skills and agent workflows
 * **Patterns:** ReAct, ReWoO, Plan-and-Execute, Self-Reflection, Hierarchical Teams
 
 ---
