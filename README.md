@@ -12,6 +12,7 @@ I am learning and building **Agentic Workflows**, transforming static LLMs into 
 
 | Repository | Focus Area | Framework |
 | :--- | :--- | :--- |
+| [**Agent Home**](https://github.com/alikasif/agent-home) | My home repo: shared agents, skills, rules and standards that I run all my other repos from. A multi-agent software team (requirements, design, planning, execution, review) for Claude Code. Fork-ready under MIT | **Claude Code, superpowers, mattpocock-skills** |
 | [**Multiple projects built using Agents**](https://github.com/alikasif/agents) | Multi-Agent Orchestration & Tooling | **CrewAI / AutoGen** |
 | [**Conversational Survey Engine**](https://github.com/alikasif/conversational-survey-engine) | Static questions survey to conversational survey using agents | **LiteLLM & OpenAI SDK** |
 | [**Exploratory Data Analysis(EDA) Agent**](https://github.com/alikasif/eda-agent) | An AI-powered exploratory data analysis tool that automatically profiles your dataset and lets you investigate it through natural language | **OpenRouter, LiteLLM & OpenAI SDK** |
@@ -20,13 +21,21 @@ I am learning and building **Agentic Workflows**, transforming static LLMs into 
 
 ---
 
+### 🏠 How I Work: the Home Repo Pattern
+
+I start every agent session from one **home repo**, [agent-home](https://github.com/alikasif/agent-home). It holds my agents, skills, rules and coding standards, and its `AGENTS.md` points to all my other repos, so a single agent can plan and change code across them. The pattern is [Matt Pocock's Home Repo Pattern](https://www.aihero.dev/the-home-repo-pattern); the agent team and tooling inside it are mine. It also uses his [mattpocock-skills](https://github.com/mattpocock/skills) and Jesse Vincent's [superpowers](https://github.com/obra/superpowers) plugins. Fork it and make it yours.
+
+---
+
 ### 🛠️ Technical Arsenal
 
 Building agents requires more than just Python; it requires an understanding of **Reasoning Loops**.
 
-* **Orchestration:** LangGraph, CrewAI, AutoGen, LangChain
-* **Models:** GPT-5, Claude 4.6 Opus, Gemini 3 Pro
-* **Vector Infrastructure:** Pinecone, ChromaDB, FAISS
+* **Orchestration:** Claude Code (subagents, skills, plugins), LangGraph, CrewAI, AutoGen, LangChain
+* **Models:** GPT-5, Claude Opus 5.5 / Sonnet 5.5, Gemini 3 Pro
+* **Skills & Plugins:** Claude Skills, Claude Code plugins (superpowers, mattpocock-skills), custom subagents
+* **RAG & Vector Infrastructure:** RAG pipelines, Pinecone, ChromaDB, FAISS
+* **Evals:** LLM and agent evaluation, regression evals for prompts, skills and agent workflows
 * **Patterns:** ReAct, ReWoO, Plan-and-Execute, Self-Reflection, Hierarchical Teams
 
 ---
