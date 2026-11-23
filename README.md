@@ -1,4 +1,4 @@
-# 🤖 Ali Kasif | software practitioner
+# 🤖 Ali Kasif | AI Engineer & Practitioner
 
 > "Moving beyond the prompt—building autonomous systems that reason, plan, and execute."
 > 
